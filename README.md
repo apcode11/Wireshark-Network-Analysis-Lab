@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32937075/README.md)
+
 # Wireshark Network Traffic Analysis Lab
 
 ## Overview
