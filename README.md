@@ -6,6 +6,8 @@
 In this lab, I used Wireshark to capture and analyze network traffic. I practiced identifying DNS queries and responses, examining a TCP three-way handshake, inspecting unencrypted HTTP traffic, and following a TCP stream to view a conversation between a client and server.
 
 This project documents my hands-on practice with network troubleshooting and packet analysis as I build my skills for IT support roles.
+<img width="745" height="863" alt="Drawing 3 (1)" src="https://github.com/user-attachments/assets/27955283-0beb-4ee4-b665-fcabcabdcb99" />
+
 
 ## Video Walkthrough
 
